@@ -23,7 +23,7 @@ const ModuleDropdown = ({ label, modules, defaultOpen = false }) => {
     const [isOpen, setIsOpen] = useState(defaultOpen);
  
     return (
-        <div className="mt-3 border border-primary/20 rounded-xl overflow-hidden">
+        <div className="mt-3 border/20 rounded-xl overflow-hidden">
             <button
                 onClick={() => setIsOpen((prev) => !prev)}
                 className="w-full flex items-center justify-between px-4 py-2.5 bg-surface hover:bg-primary/5 transition-colors duration-200 text-left"
@@ -113,7 +113,7 @@ export const Experience = () => {
 
                                         {/* Content */}
                                         <div className={`pl-8 md:pl-0 ${idx % 2 === 0 ? "md:pr-16 md:text-right" : "md:col-start-2 md:pl-16"}`}>
-                                            <div className={`glass p-6 rounded-2xl border border-primary/30 hover:border-primary/50 transition-all duration-500`}>
+                                            <div className={`glass p-6 rounded-2xl border  hover:border-primary/50 transition-all duration-500`}>
                                                 <span className="text-sm text-primary font-medium">{exp.period}</span>
                                                 <h3 className="text-xl font-semibold mt-2">{exp.role}</h3>
                                                 <p className="text-muted-foreground">{exp.company}</p>

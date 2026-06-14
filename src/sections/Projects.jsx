@@ -96,7 +96,7 @@ export const Projects = () => {
                         </span>
                     </h2>
                     <p className="text-muted-foreground animate-fade-in animation-delay-200">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        A collection of projects that showcase my journey in software engineering, from full-stack web applications and IoT systems to algorithms, data analysis, and cloud-based solutions.
                     </p>                
              </div>
 

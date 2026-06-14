@@ -100,7 +100,7 @@ export const Contact = () => {
                 </div> 
 
                 <div className="grid lg:grid-cols-2 gap-12 max-w-5xl mx-auto">
-                    <div className="glass p-8 rounded-3xl border border-primary/30 animate-fade-in animation-delay-300">
+                    <div className="glass p-8 rounded-3xl border animate-fade-in animation-delay-300">
                         <form className="space-y-6" onSubmit={handleSubmit}>
                             <div>
                                 <label 
@@ -218,7 +218,7 @@ export const Contact = () => {
                             </div>
                         </div>
                          {/* Availability Card */}
-                        <div className="glass rounded-3xl p-8 border border-primary/30">
+                        <div className="glass rounded-3xl p-8 border">
                         <div className="flex items-center gap-3 mb-4">
                             <span className="w-3 h-3 bg-green-500 rounded-full animate-pulse" />
                             <span className="font-medium">Currently Available</span>
