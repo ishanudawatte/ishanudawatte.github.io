@@ -4,7 +4,7 @@ const skillCategories = [
     {
         category: "Programming Languages",
         skills: [
-            { name: "Python",     svg: <img src="/src/assets/icons/programming_lang/python.svg"     alt="Python"      className="w-8 h-8" /> },
+            { name: "Python",     svg: <img src="/DEV-PERSONAL-PORTFOLIO/assets/icons/programming_lang/python.svg"     alt="Python"      className="w-8 h-8" /> },
             { name: "Java",       svg: <img src="/src/assets/icons/programming_lang/java.svg"       alt="Java"        className="w-8 h-8" /> },
             { name: "C++",        svg: <img src="/src/assets/icons/programming_lang/cplusplus.svg"  alt="C++"         className="w-8 h-8" /> },
             { name: "JavaScript", svg: <img src="/src/assets/icons/programming_lang/javascript.svg" alt="JavaScript"  className="w-8 h-8" /> },
