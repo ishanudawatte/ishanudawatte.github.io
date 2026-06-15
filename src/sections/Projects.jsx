@@ -50,7 +50,7 @@ const projects = [
         description: "A modern, responsive portfolio platform built with React, Vite, and Tailwind CSS to showcase software engineering projects, technical skills, and academic achievements through an immersive user experience. The application features custom glassmorphism interfaces, animated UI components, dynamic project galleries, interactive education timelines, and an EmailJS-powered contact system, combining modern frontend engineering practices with performance-focused design and responsive user experiences.",
         image: "/DEV-PERSONAL-PORTFOLIO/projects/portfolio.png",
         tags: ["React", "Vite", "Tailwind Css", "EmailJs", "GitHub Pages"],
-        link: "#",
+        link: "https://ishan101-hub.github.io/DEV-PERSONAL-PORTFOLIO/",
         github: "https://github.com/Ishan101-hub/DEV-PERSONAL-PORTFOLIO",
     },
     {
