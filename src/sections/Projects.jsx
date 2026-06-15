@@ -46,6 +46,14 @@ const projects = [
         github: "https://github.com/Ishan101-hub/todo-app-full-stack-task-management-application",
     },
     {
+        title: "Personal Portfolio Website",
+        description: "A modern, responsive portfolio platform built with React, Vite, and Tailwind CSS to showcase software engineering projects, technical skills, and academic achievements through an immersive user experience. The application features custom glassmorphism interfaces, animated UI components, dynamic project galleries, interactive education timelines, and an EmailJS-powered contact system, combining modern frontend engineering practices with performance-focused design and responsive user experiences.",
+        image: "/projects/portfolio.png",
+        tags: ["React", "Vite", "Tailwind Css", "EmailJs", "GitHub Pages"],
+        link: "#",
+        github: "https://github.com/Ishan101-hub/DEV-PERSONAL-PORTFOLIO",
+    },
+    {
         title: "University Enrollment System",
         description: "A Java-based university enrollment management system designed to manage students, lecturers, and course coordinators through both a console interface and an interactive Swing GUI. Built using core object-oriented programming principles including inheritance, abstraction, encapsulation, and polymorphism, the application supports enrolment management, advanced searching and sorting, statistics generation, data validation, and graphical data presentation. The system incorporates Maven-based project management and JUnit testing to ensure maintainability, reliability, and scalability.",
         image: "/projects/unienrollment.jpg",
@@ -68,7 +76,8 @@ const projects = [
         tags: ["Python", "Tkinter", "Git", "Histrogram"],
         link: "https://github.com/Ishan101-hub/traffic-flow-data-analysis",
         github: "https://github.com/Ishan101-hub/traffic-flow-data-analysis",
-    }
+    },
+    
 
 ]
 const DEFAULT_VISIBLE = 2;
