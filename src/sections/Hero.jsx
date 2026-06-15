@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 import { IoMailOutline } from "react-icons/io5";
 import { AnimatedBorderButton } from '../components/AnimatedBorderButton';
 
-const CV_FILE_PATH = "@/assets/Ishan_Udawatte_CV.pdf";
+const CV_FILE_PATH = "/DEV-PERSONAL-PORTFOLIO/assets/Ishan_Udawatte_CV.pdf";
 
 const skills = [
     "Critical Thinking",
@@ -30,7 +30,7 @@ export const Hero = () => {
 
         <div className="absolute inset-0">
             <img 
-            src="/src/assets/a.png"
+            src="/DEV-PERSONAL-PORTFOLIO/assets/a.png"
             alt="Hero img"
             className="w-full h-full object-cover opacity-90"/>
             <div className="absolute inset-0 bg-gradient-to-b from-background/10 via-background/40 to-background"/>
@@ -138,7 +138,7 @@ export const Hero = () => {
                     <div className="relative max-w-md mx-auto">
                         <div> 
                             {/* className="relative glass rounded-3xl p-2 glow-border" */}
-                            <img src="src/assets/profile.png" alt="Ishan Udawatte" className="w-full aspect-[4/5] object-cover rounded-4xl"/>
+                            <img src="DEV-PERSONAL-PORTFOLIO/assets/profile.png" alt="Ishan Udawatte" className="w-full aspect-[4/5] object-cover rounded-4xl"/>
                         </div>
                     </div>
                 </div>

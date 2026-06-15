@@ -1,7 +1,7 @@
 import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 
 // Must match the same logo used in Navbar
-const LOGO_IMAGE_SRC = "/footer_img.png"; // e.g. "/src/assets/initials.png"
+const LOGO_IMAGE_SRC = "/DEV-PERSONAL-PORTFOLIO/footer_img.png"; // e.g. "/src/assets/initials.png"
 
 const socialLinks = [
     { icon: FaGithub, href: "https://github.com/Ishan101-hub", label: "GitHub" },

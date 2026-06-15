@@ -8,7 +8,7 @@ const projects = [
     {
         title: "AquaSense - IoT-Based Smart Water Management & Leak Detection System",
         description: "A full-stack IoT water management platform that enables real-time monitoring of household water consumption, zone-level leak detection, automated valve control, and usage analytics. Built using Flutter, FastAPI, PostgreSQL (Supabase), MQTT, and ESP32 devices, the system processes live sensor data through a cloud-hosted architecture to provide intelligent monitoring, alerts, and water conservation insights.",
-        image: "/projects/aquasense.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/aquasense.png",
         tags: ["Python", "Flutter", "FastAPI", "Supabase", "C++", "HiveMQ Cloud", "PostgreSQL", "ESP32", "YF-S201 Water Flow Sensor", "Solenoid Valve", "Firebase Hosting", "Render", "GitHub"],
         link: "https://aquasense-sdgp.web.app/",
         github: "https://github.com/Ishan101-hub/sdgp-se24-aquasense-mobile",
@@ -16,7 +16,7 @@ const projects = [
     {
         title: "Directed Graph Acyclicity Checker - Graph Algorithms & Cycle Detection Engine",
         description: "A Java-based graph analysis tool designed to determine whether a directed graph is acyclic (DAG) or contains cycles using two classical graph algorithms: sink elimination and iterative depth-first search (DFS). The application parses large graph datasets into an optimized adjacency-list structure, performs linear-time acyclicity verification in O(V + E) complexity, and identifies concrete cycle paths using three-colour DFS traversal with cycle reconstruction. Built with performance-focused data structures and benchmarked against large-scale graph inputs to validate algorithmic efficiency and scalability.",
-        image: "/projects/cycle.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/cycle.png",
         tags: ["Java", "Algorithms", "Sink Elimination", "DFS", "Graphs Theory", "Git"],
         link: "https://github.com/Ishan101-hub/directed-graph-acyclicity-checker",
         github: "https://github.com/Ishan101-hub/directed-graph-acyclicity-checker",
@@ -24,7 +24,7 @@ const projects = [
     {
         title: "Smart Home E-Commerce Platform",
         description: "A full-stack e-commerce web application developed for browsing, purchasing, and managing smart home products across security, energy, and automation categories. Built using PHP, MySQL, HTML, CSS, and session-based authentication, the platform features a dynamic product catalogue, product detail pages, role-based user access, and a shopping basket system with real-time subtotal and total calculations. The application integrates database-driven inventory management, user authentication workflows, and session persistence to deliver a complete online retail experience.",
-        image: "/projects/homteq.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/homteq.png",
         tags: ["PHP", "MySQL", "HTML", "CSS", "XAMPP", "Git"],
         link: "https://github.com/Ishan101-hub/homteq-smart-home-ecommerce",
         github: "https://github.com/Ishan101-hub/homteq-smart-home-ecommerce",
@@ -32,7 +32,7 @@ const projects = [
     {
         title: "AquaSense Product Showcase Platform",
         description: "A responsive product showcase website developed to present the AquaSense smart water management ecosystem, highlighting its IoT infrastructure, real-time monitoring capabilities, leakage detection features, analytics dashboard, and sustainability impact. Built using HTML, CSS, JavaScript, Node.js, and Express, the platform combines interactive user experiences, animated content sections, team showcases, product demonstrations, and integrated feedback collection to communicate the project's technical capabilities and vision to stakeholders, users, and potential partners.",
-        image: "/projects/landing.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/landing.png",
         tags: ["HTML", "CSS", "Node.js", "Express.js", "JavaScript", "Bootstrap", "Resend API", "Render", "Git"],
         link: "https://www.aquasense.lk/",
         github: "https://github.com/Ishan101-hub/sdgp-se-24-aqua-sense--landing-page",
@@ -40,7 +40,7 @@ const projects = [
     {
         title: "Todo App - Full-Stack Task Management Application",
         description: "A full-stack CRUD web application developed using Node.js, Express.js, MongoDB, and EJS templating, enabling users to create, manage, update, and delete tasks through a clean and intuitive interface. The application follows MVC-inspired architecture patterns, integrates MongoDB Atlas for persistent cloud-based storage, and implements asynchronous database operations using Mongoose and async/await workflows to provide efficient task management and data handling.",
-        image: "/projects/todo.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/todo.png",
         tags: ["Node.js", "Express.js", "MongoDB Atlas", "Mongoose", "EJS", "CSS", "Git"],
         link: "https://github.com/Ishan101-hub/todo-app-full-stack-task-management-application",
         github: "https://github.com/Ishan101-hub/todo-app-full-stack-task-management-application",
@@ -48,7 +48,7 @@ const projects = [
     {
         title: "Personal Portfolio Website",
         description: "A modern, responsive portfolio platform built with React, Vite, and Tailwind CSS to showcase software engineering projects, technical skills, and academic achievements through an immersive user experience. The application features custom glassmorphism interfaces, animated UI components, dynamic project galleries, interactive education timelines, and an EmailJS-powered contact system, combining modern frontend engineering practices with performance-focused design and responsive user experiences.",
-        image: "/projects/portfolio.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/portfolio.png",
         tags: ["React", "Vite", "Tailwind Css", "EmailJs", "GitHub Pages"],
         link: "#",
         github: "https://github.com/Ishan101-hub/DEV-PERSONAL-PORTFOLIO",
@@ -56,7 +56,7 @@ const projects = [
     {
         title: "University Enrollment System",
         description: "A Java-based university enrollment management system designed to manage students, lecturers, and course coordinators through both a console interface and an interactive Swing GUI. Built using core object-oriented programming principles including inheritance, abstraction, encapsulation, and polymorphism, the application supports enrolment management, advanced searching and sorting, statistics generation, data validation, and graphical data presentation. The system incorporates Maven-based project management and JUnit testing to ensure maintainability, reliability, and scalability.",
-        image: "/projects/unienrollment.jpg",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/unienrollment.jpg",
         tags: ["Java", "Java Swing", "Apache Maven", "JUnit", "IntelliJ IDEA", "Git"],
         link: "https://github.com/Ishan101-hub/university-enrollment-system",
         github: "https://github.com/Ishan101-hub/university-enrollment-system",
@@ -64,7 +64,7 @@ const projects = [
     {
         title: "SDG 14: Life Below Water - Responsive Awareness & Information Platform",
         description: "A multi-page responsive website developed to promote awareness of UN Sustainable Development Goal 14: Life Below Water, focusing on marine conservation, biodiversity protection, and sustainable ocean resource management. Built using HTML5, CSS3, SVG, and responsive design principles, the platform features interactive content navigation, data visualisation, volunteer programme showcases, feedback systems, multimedia integration, and accessibility-focused layouts, delivering an engaging educational experience across desktop and mobile devices.",
-        image: "/projects/life_below_water.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/life_below_water.png",
         tags: ["HTML", "CSS", "JavaScript", "Git"],
         link: "https://github.com/Ishan101-hub/sdg14-life-below-water",
         github: "https://github.com/Ishan101-hub/sdg14-life-below-water",
@@ -72,7 +72,7 @@ const projects = [
     {
         title: "Traffic Flow Data Analysis - Data Processing & Visualization System",
         description: "A data-driven traffic analysis system developed using Python, CSV processing, and Tkinter, designed to analyse traffic survey datasets and generate statistical insights from vehicle movement patterns. The application implements robust input validation, file handling, multi-dataset processing, automated report generation, and graphical data visualization, producing sixteen traffic metrics alongside interactive hourly traffic histograms for comparative junction analysis.",
-        image: "/projects/histrogram.png",
+        image: "/DEV-PERSONAL-PORTFOLIO/projects/histrogram.png",
         tags: ["Python", "Tkinter", "Git", "Histrogram"],
         link: "https://github.com/Ishan101-hub/traffic-flow-data-analysis",
         github: "https://github.com/Ishan101-hub/traffic-flow-data-analysis",
