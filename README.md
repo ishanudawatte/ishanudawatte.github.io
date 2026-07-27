@@ -2,7 +2,7 @@
 
 # Ishan Udawatte — Personal Portfolio
 
-**Live Site → [ishan-udawatte.vercel.app](https://ishan-udawatte.vercel.app)**
+**Live Site → [ishan-udawatte.vercel.app](https://ishanudawatte.github.io/)**
 *(update this link once deployed)*
 
 A dark-themed, high-performance personal portfolio built with React, Vite, and Tailwind CSS v4 — featuring glassmorphism UI, animated section transitions, a scrolling skills marquee, an interactive projects grid, and an EmailJS-powered contact form.
@@ -30,7 +30,7 @@ A dark-themed, high-performance personal portfolio built with React, Vite, and T
 
 ## Live Demo
 
-> **[View Portfolio →](https://ishan-udawatte.vercel.app)**
+> **[View Portfolio →](https://ishanudawatte.github.io/)**
 > *(replace with your GitHub Pages or Vercel URL once deployed)*
 
 ---
@@ -151,8 +151,8 @@ A split-layout section: EmailJS async contact form on the left (with loading spi
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Ishan101-hub/dev-personal-portfolio.git
-cd dev-personal-portfolio
+git clone https://github.com/ishanudawatte/ishanudawatte.github.io.git
+
 
 # 2. Install dependencies
 npm install
@@ -197,10 +197,10 @@ npm install --save-dev gh-pages
 #    "predeploy": "npm run build",
 #    "deploy": "gh-pages -d dist"
 # And add at the top level:
-#    "homepage": "https://Ishan101-hub.github.io/dev-personal-portfolio"
+#    "homepage": "https://ishanudawatte.github.io/"
 
 # 3. Also update vite.config.js — add base:
-#    base: '/dev-personal-portfolio/'
+#    base: '/'
 
 # 4. Deploy
 npm run deploy
