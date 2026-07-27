@@ -2,7 +2,7 @@ import {Button} from "@/components/Button";
 import { Menu, X } from "lucide-react";
 import { useState, useEffect } from "react"; 
 
-const LOGO_IMAGE_SRC = "/DEV-PERSONAL-PORTFOLIO/footer_img.png";
+const LOGO_IMAGE_SRC = "/footer_img.png";
 
 const navLinks = [
     {href: "#about", label: "About"},

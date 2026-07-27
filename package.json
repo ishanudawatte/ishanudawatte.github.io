@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ishan101-hub.github.io/dev-personal-portfolio",
+  "homepage": "https://ishanudawatte.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
