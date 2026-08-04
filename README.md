@@ -3,7 +3,7 @@
 # Ishan Udawatte — Personal Portfolio
 
 **Live Site → [ishan-udawatte.vercel.app](https://ishanudawatte.github.io/)**
-*(update this link once deployed)*
+_(update this link once deployed)_
 
 A dark-themed, high-performance personal portfolio built with React, Vite, and Tailwind CSS v4 — featuring glassmorphism UI, animated section transitions, a scrolling skills marquee, an interactive projects grid, and an EmailJS-powered contact form.
 
@@ -31,7 +31,7 @@ A dark-themed, high-performance personal portfolio built with React, Vite, and T
 ## Live Demo
 
 > **[View Portfolio →](https://ishanudawatte.github.io/)**
-> *(replace with your GitHub Pages or Vercel URL once deployed)*
+> _(replace with your GitHub Pages or Vercel URL once deployed)_
 
 ---
 
@@ -53,17 +53,17 @@ A dark-themed, high-performance personal portfolio built with React, Vite, and T
 
 ## Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Framework | React 18 |
-| Build Tool | Vite |
-| Styling | Tailwind CSS v4 (`@import "tailwindcss"`) |
-| Icons | Lucide React, React Icons (FA6, IO5) |
-| Email | EmailJS (`@emailjs/browser`) |
-| Path Aliases | `@/` → `src/` (via `vite.config.js`) |
-| Fonts | Inter (sans), Playfair Display (serif) |
-| Deployment | GitHub Pages / Vercel |
-| Version Control | Git + GitHub |
+| Layer           | Technology                                |
+| --------------- | ----------------------------------------- |
+| Framework       | React 18                                  |
+| Build Tool      | Vite                                      |
+| Styling         | Tailwind CSS v4 (`@import "tailwindcss"`) |
+| Icons           | Lucide React, React Icons (FA6, IO5)      |
+| Email           | EmailJS (`@emailjs/browser`)              |
+| Path Aliases    | `@/` → `src/` (via `vite.config.js`)      |
+| Fonts           | Inter (sans), Playfair Display (serif)    |
+| Deployment      | GitHub Pages / Vercel                     |
+| Version Control | Git + GitHub                              |
 
 ---
 
@@ -125,18 +125,23 @@ DEV-PERSONAL-PORTFOLIO/
 ## Sections
 
 ### Hero
+
 Full-screen section with a hero background image, profile photo, animated floating dots, headline copy, "Contact Me" and "Download CV" CTAs, social links, and an infinite-scroll soft skills marquee.
 
 ### About
+
 Two-column layout: biographical copy on the left, a 2×2 skill icon grid on the right. Categories: **Programming Languages**, **Web Development**, **Databases**, and **Tools & Frameworks** — each rendered as icon + label tiles inside glassmorphism cards.
 
 ### Projects
+
 A 2-column card grid showcasing 8 projects. Cards show a project image, title, description, and tech tags. Hovering reveals live-link and GitHub overlay icons. A "View All Projects" / "Show Less" animated border button toggles the full list.
 
-### Experience *(Academic Journey)*
+### Experience _(Academic Journey)_
+
 Alternating left/right timeline. The IIT/Westminster entry features interactive `+/-` module dropdowns for Level 5 and Level 4 coursework. A–Level and O–Level entries render as subject tag pills.
 
 ### Contact
+
 A split-layout section: EmailJS async contact form on the left (with loading spinner state and success/error alerts) and contact info cards plus a pulsing "Currently Available" availability badge on the right.
 
 ---
@@ -144,6 +149,7 @@ A split-layout section: EmailJS async contact form on the left (with loading spi
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - npm
 
@@ -212,31 +218,33 @@ npm run deploy
 npm install -g vercel
 vercel --prod
 ```
+
 Add your environment variables in the Vercel dashboard under Project → Settings → Environment Variables.
 
 ---
 
 ## Projects Showcased
 
-| # | Project | Stack |
-|---|---|---|
-| 1 | **AquaSense** — IoT Smart Water Management | Flutter, FastAPI, PostgreSQL, MQTT, ESP32, Supabase |
-| 2 | **Directed Graph Acyclicity Checker** | Java, DFS, Sink Elimination |
-| 3 | **Smart Home E-Commerce Platform** | PHP, MySQL, HTML, CSS |
-| 4 | **AquaSense Product Showcase** | Node.js, Express, Bootstrap, Resend API |
-| 5 | **Todo App** — Full-Stack Task Manager | Node.js, Express, MongoDB Atlas, EJS |
-| 6 | **University Enrollment System** | Java, Swing GUI, Maven, JUnit 5 |
-| 7 | **SDG 14: Life Below Water** — Awareness Platform | HTML5, CSS3, JavaScript |
-| 8 | **Traffic Flow Data Analysis** | Python, Tkinter, CSV processing |
+| #   | Project                                           | Stack                                               |
+| --- | ------------------------------------------------- | --------------------------------------------------- |
+| 1   | **AquaSense** — IoT Smart Water Management        | Flutter, FastAPI, PostgreSQL, MQTT, ESP32, Supabase |
+| 2   | **Directed Graph Acyclicity Checker**             | Java, DFS, Sink Elimination                         |
+| 3   | **Smart Home E-Commerce Platform**                | PHP, MySQL, HTML, CSS                               |
+| 4   | **AquaSense Product Showcase**                    | Node.js, Express, Bootstrap, Resend API             |
+| 5   | **Todo App** — Full-Stack Task Manager            | Node.js, Express, MongoDB Atlas, EJS                |
+| 6   | **University Enrollment System**                  | Java, Swing GUI, Maven, JUnit 5                     |
+| 7   | **SDG 14: Life Below Water** — Awareness Platform | HTML5, CSS3, JavaScript                             |
+| 8   | **Traffic Flow Data Analysis**                    | Python, Tkinter, CSV processing                     |
 
 ---
 
 ## Contact
 
 **Ishan Udawatte**
+
 - Email: [erangaudawatte7@gmail.com](mailto:erangaudawatte7@gmail.com)
 - LinkedIn: [linkedin.com/in/ishan-udawatte-b7bb50257](https://www.linkedin.com/in/ishan-udawatte-b7bb50257/)
-- GitHub: [github.com/Ishan101-hub](https://github.com/Ishan101-hub)
+- GitHub: [github.com/ishanudawatte](https://github.com/ishanudawatte)
 - Location: Sri Jayawardenepura Kotte, Sri Lanka
 
 ---

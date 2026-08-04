@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 const LOGO_IMAGE_SRC = "/footer_img.png"; // e.g. "/src/assets/initials.png"
 
 const socialLinks = [
-    { icon: FaGithub, href: "https://github.com/Ishan101-hub", label: "GitHub" },
+    { icon: FaGithub, href: "https://github.com/ishanudawatte", label: "GitHub" },
     { icon: FaLinkedinIn, href: "https://www.linkedin.com/in/ishan-udawatte-b7bb50257/", label: "LinkedIn" },
 ];
 
