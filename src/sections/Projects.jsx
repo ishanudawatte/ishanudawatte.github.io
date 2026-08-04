@@ -99,7 +99,7 @@ const projects = [
       "A modern, responsive portfolio platform built with React, Vite, and Tailwind CSS to showcase software engineering projects, technical skills, and academic achievements through an immersive user experience. The application features custom glassmorphism interfaces, animated UI components, dynamic project galleries, interactive education timelines, and an EmailJS-powered contact system, combining modern frontend engineering practices with performance-focused design and responsive user experiences.",
     image: "/projects/portfolio.png",
     tags: ["React", "Vite", "Tailwind Css", "EmailJs", "GitHub Pages"],
-    link: "https://github.com/ishanudawatte/ishanudawatte.github.io",
+    link: "https://ishanudawatte.github.io/",
     github: "https://github.com/ishanudawatte/ishanudawatte.github.io",
   },
   {
